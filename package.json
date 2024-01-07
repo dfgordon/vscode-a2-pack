@@ -1,0 +1,30 @@
+{
+  "name": "vscode-a2-pack",
+  "displayName": "Apple II Pack",
+  "description": "Cross development for Apple II",
+  "version": "0.0.1",
+  "icon": "a2-pack.png",
+  "license": "GPL-3.0-only",
+  "publisher": "dfgordon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfgordon/vscode-a2-pack"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": ["retro","basic","assembly","pascal","cpm","dos"],
+  "extensionPack": [ 
+    "ansonyeung.pascal-language-basics",
+    "brunnerh.insert-unicode", 
+    "dfgordon.vscode-disk-image-notebook", 
+    "dfgordon.vscode-language-applesoft", 
+    "dfgordon.vscode-language-integerbasic", 
+    "dfgordon.vscode-language-merlin6502", 
+    "idleberg.applescript", 
+    "ms-vscode.powershell"
+  ]
+}
