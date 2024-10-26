@@ -2,7 +2,7 @@
   "name": "vscode-a2-pack",
   "displayName": "Apple II Pack",
   "description": "Cross development for Apple II",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "a2-pack.png",
   "license": "GPL-3.0-only",
   "publisher": "dfgordon",
